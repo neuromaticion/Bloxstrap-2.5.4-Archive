@@ -8,7 +8,7 @@ If you are here for the latest version of Bloxstrap, [Download it from it's offi
 
 # NOTICE
 This may not work when you fully log each account into one of these instances.
-It only (partially) works by launching each instance from the roblox website.
+Roblox patched it slightly, but it's still managable.
 
 ![image](https://github.com/neuromaticion/Bloxstrap-2.5.4-Archive/assets/70990078/44a3faf4-68b6-45ba-8f94-575b724c9e81)
 ![image](https://github.com/neuromaticion/Bloxstrap-2.5.4-Archive/assets/70990078/531272ee-c7fa-42cd-a359-9bfa74d7be76)
