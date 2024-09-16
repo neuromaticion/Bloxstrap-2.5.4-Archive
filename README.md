@@ -1,11 +1,3 @@
-### PATCHED
-
-# Bloxstrap-2.5.4-Archive
-Recently heard that they are removing MultiInstancing, So I archived version 2.5.4.
-This executable is archived from PizzaBoxer's 2.5.4 version page.
-If you are here for the latest version of Bloxstrap, [Download it from it's official repository](https://github.com/pizzaboxer/bloxstrap/releases)
-![image](https://github.com/neuromaticion/Bloxstrap-2.5.4-Archive/assets/70990078/70fba80f-e4c4-415d-9d9b-541905ef87d8)
-
 # NOTICE
 This is no longer in working order, here is a redirect back to the [latest versions](https://github.com/pizzaboxer/bloxstrap).
 
